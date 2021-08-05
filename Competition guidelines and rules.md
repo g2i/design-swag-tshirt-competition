@@ -3,10 +3,10 @@
 Hey Devs! For the first time ever G2i is holding a Design Your Own Swag t-shirt competition! This is a fun way to unleash your creative energy to create a winning design which will be featured as G2i swag of the year! For more details read below!
 
 # T-Shirt Design Contest Prizes
-The winning design will be featured on the official G2i 2021 t-shirt, recognition on G2i's social media/e-newsletter, free t-shirt and a $50 gift card!
+The winner design will be featured on the official G2i 2021 t-shirt, recognition on G2i's social media/e-newsletter, free t-shirt and a $50 gift card!
 
 ## Submission Rules and Guidelines
-- Create a pull request with your t-shirt design file via Github. Please include a short summary of the inspiration behind your design. Share your design with other friends and members of the collective to gain votes & comments from the community.
+- Create a pull request with your t-shirt design file via Github. Please include a short summary of the inspiration behind your design. 
 - Eligibility: The contest is open to active & inactive G2i members. Members employed by G2i are not eligible.
 - Members limited to (1) entry. Entries can be submitted by an individual (G2i member)
 - Design must be original. By submitting a design, you are guaranteeing that you hold original rights to everything in it, that it may be printed on distributed t-shirts, and that it does not contain any copyright material.
